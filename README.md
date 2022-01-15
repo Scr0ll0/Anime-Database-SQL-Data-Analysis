@@ -5,3 +5,5 @@ Questions Answered Through Queries
 3.   
 4.   
 5.   
+
+Credit over to Hernan Valdivieso for the process used to scrape anime. https://github.com/Hernan4444/MyAnimeList-Database
